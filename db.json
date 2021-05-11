@@ -1,4 +1,4 @@
-{
+[
 "satellites": [
 {
 "name": "kenobi",
@@ -16,4 +16,4 @@
 "message": ["este", "", "un", "", ""]
 }
 ]
-}
+]
