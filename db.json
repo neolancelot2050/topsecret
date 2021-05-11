@@ -7,12 +7,12 @@
                 },
                 {
                 "name": "skywalker",
-                "distance": 115.5
+                "distance": 115.5,  
                 "message": ["", "es", "", "", "secreto"]
                 },
                 {
                 "name": "sato",
-                "distance": 142.7
+                "distance": 142.7,
                 "message": ["este", "", "un", "", ""]
                 }
               ]
